@@ -44,15 +44,21 @@ Using ZipWp’s AI capabilities significantly reduced the time and effort requir
 
 ### 📸 Screenshots
 
-![Homepage](path/to/homepage-screenshot.png)
-*Homepage showcasing personalized tutoring services.*
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+      <img src="https://github.com/user-attachments/assets/606f2dd4-73e6-4595-ac69-0df6f8e1c4f5" alt="Image 1" width="18%">
+      <img src="https://github.com/user-attachments/assets/7b36d7e9-f612-4ac7-94ce-922726a74e32" alt="Image 2" width="18%">
+      <img src="https://github.com/user-attachments/assets/c1910831-62aa-4a2d-96d6-6a94fbad7bb9" alt="Image 3" width="18%">
+      <img src="https://github.com/user-attachments/assets/9959e816-ead7-478c-ac60-3c0829a69782" alt="Image 4" width="18%">
+      <img src="https://github.com/user-attachments/assets/fb06a1bf-9ae4-4e64-9ae2-519ee23b726e" alt="Image 5" width="18%">
+</div>
+</div>
 
-![Responsive Design](path/to/responsive-screenshot.png)
-*Responsive design ensuring optimal performance on all devices.*
+
 
 ### 🎥 Video Tutorial Coming Soon!
 
-I’m thrilled to announce that I will be releasing a detailed **video tutorial** on my **YouTube channel @anupr0y** very soon! In this tutorial, I will walk you through the entire process of building this website from scratch using ZipWp and AI. Here’s what you can expect:
+I’m thrilled to announce that I will be releasing a detailed **video tutorial** on my **YouTube Channel @anupr0y [YouTube](https://www.youtube.com/@anupr0y)**  In this tutorial, I will walk you through the entire process of building this website from scratch using ZipWp and AI. Here’s what you can expect:
 
 - **Step-by-Step Guidance:** From selecting the right layout to integrating AI tools for content and design.
 - **Hands-On Demonstration:** Practical examples of using AI to automate content generation and optimize design.
@@ -65,9 +71,9 @@ Stay tuned and make sure to subscribe to my YouTube channel @anupr0y to get noti
 
 I invite you to explore this repository, check out the code, and see how AI can transform your web development projects. Whether you’re a beginner or an experienced developer, there’s something here for everyone. Feel free to contribute, suggest improvements, or share your own experiences with AI in web development.
 
-**Connect with me on [LinkedIn](https://www.linkedin.com/in/anupr0y)** and follow my journey on **YouTube @anupr0y** for more tutorials and tech insights! Let’s build amazing things together! 💻✨
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/anupr0y)** and follow my journey on **YouTube @anupr0y [YouTube](https://www.youtube.com/@anupr0y)** for more tutorials and tech insights! Let’s build amazing things together! 💻✨
 
-### 📢 Call to Action
+
 
 If you find this project inspiring or useful, please:
 
@@ -88,6 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anupr0y) or visit my [YouTube channel @anupr0y](https://www.youtube.com/@anupr0y).
 
----
-
-This detailed README provides a thorough overview of your project, including its purpose, features, the role of AI, technologies used, and encourages community engagement through calls to action. It’s structured to inform and inspire others while making it easy for them to get involved and follow your upcoming tutorial.
